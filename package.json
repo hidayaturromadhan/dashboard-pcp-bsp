@@ -1,0 +1,17 @@
+{
+  "name": "pcp-bsp-dashboard-frontend",
+  "version": "1.0.0",
+  "description": "Frontend statis Dashboard Monitoring PCP, Revenue BSP, dan Prediksi Produksi",
+  "main": "index.html",
+  "scripts": {
+    "start": "vite --host 0.0.0.0",
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-basic-ssl": "latest",
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
